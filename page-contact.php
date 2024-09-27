@@ -66,7 +66,7 @@
                             </li>
                             <li><a href="page-window.html">Windows</a>
                             </li>
-                            <li><a href="page-door.php">Doors</a>
+                            <li><a href="page-door.html">Doors</a>
                             </li>
                             <li><a href="page-gallery.html">Gallery</a>
                             </li>
