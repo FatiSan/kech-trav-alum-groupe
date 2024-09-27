@@ -49,7 +49,7 @@
             <div class="container-fluid container-fixel">
               <div class="flex-header d-lg-flex">
                      <div class="logo logo-style2">
-                     <a href="/kech-trav/images/logo.png"> <img style="width:50% ;"  src="/kech-trav/images/logo.png"   data-retina="/kech-trav/images/logo.png" alt="images"></a>
+                     <a href="images/logo.png"> <img style="width:50% ;"  src="images/logo.png"   data-retina="images/logo.png" alt="images"></a>
                         
                      </div>
                      <div class="content-menu d-lg-flex">
@@ -153,12 +153,12 @@
                                     <div class="owl-carousel owl-loaded owl-drag">
                                             <div class="image-profolio image-profolio-hv style2">
                                                 <div class="image text-center">
-                                                    <img src="/kech-trav/images\What-we-do/p1.png" alt="images">
+                                                    <img src="images\What-we-do/p1.png" alt="images">
                                                 </div>
                                             </div>
                                             <div class="image-profolio image-profolio-hv style2">
                                                 <div class="image text-center">
-                                                <img src="/kech-trav/images\What-we-do/p11.png" alt="images">
+                                                <img src="images\What-we-do/p11.png" alt="images">
                                                 </div>
                                             </div>
                                     </div>
