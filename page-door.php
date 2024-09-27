@@ -6,6 +6,7 @@
     <meta name="description" content="">
     <meta name="description" content="Kech Trav Alum Groupe: Expert en menuiserie aluminium au Maroc. Solutions sur mesure pour portes, fenêtres et façades. Qualité et durabilité garanties">
         <meta name="author" content="themsflat.com" />
+    <meta name="google-site-verification" content="UJHwg0YbZZGSKa_jrGNO-d_2eZtotV6lW0C4aHWwNk0" />
     <meta name="keywords" content="menuisier aluminium Maroc,menuiserie aluminium Maroc,solutions aluminium élégantes,aluminium durable,chef-d&#x27;œuvre en aluminium,kech trav alum groupe,aluminium Marrakech,artisan aluminium Maroc,construction aluminium Maroc,aluminium sur mesure,solutions aluminium sur mesure,menuisier aluminium Marrakech,entreprise aluminium Maroc,transformation aluminium,aluminium de qualité,design aluminium Maroc,aluminium pour intérieur,aluminium pour extérieur,aluminium durable et élégant,menuiserie sur mesure Maroc">
     <!-- Mobile Specific Metas -->
     <meta name="viewport"  content="width=device-width, initial-scale=1, maximum-scale=1" />
@@ -49,7 +50,7 @@
             <div class="container-fluid container-fixel">
               <div class="flex-header d-lg-flex">
                      <div class="logo logo-style2">
-                     <a href="images/logo.png"> <img style="width:50% ;"  src="images/logo.png"   data-retina="images/logo.png" alt="images"></a>
+                        <a href="images/logo.png"> <img width="10%"  src="images/logo.png"   data-retina="images/logo.png" alt="images"></a>
                         
                      </div>
                      <div class="content-menu d-lg-flex">
@@ -69,7 +70,7 @@
                             </li>
                             <li><a href="page-gallery.html">Gallery</a>
                             </li>
-                             <li><a href="page-contact.php">Contact</a></li>                      
+                             <li><a href="page-contact.html">Contact</a></li>                      
                         </ul>
                           <!-- /.menu -->
                         </nav>
@@ -78,14 +79,12 @@
                       <!-- /.nav-wrap -->
 
                       <div class="search-btn">
-        
-
                           <div class="btn-top">
-                              <a href="page-contact.php" class="themesflat-button-style2 btn-style-4">
+                              <a href="https://wa.me/0661546065" class="themesflat-button-style2 btn-style-4">
                               <span class="btn-title">Contact Us</span>
                           </a>
                           </div>
-                          	<!-- /.flat-show-search -->
+                         	<!-- /.flat-show-search -->
                       </div>
                   </div>
                 </div>
